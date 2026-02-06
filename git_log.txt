@@ -1,0 +1,45 @@
+commit 9f07c3f66e2abcc304f26e1a016ddd62b2d1e0a4
+Merge: 71f7d5e 783d864
+Author: Mariobros <tapiamariomx@gmail.com>
+Date:   Thu Feb 5 17:04:05 2026 -0800
+
+    fixed merge conflict?
+
+commit 783d86418e3864418d63d7e130abf45e2c411579
+Author: Mariobros <tapiamariomx@gmail.com>
+Date:   Thu Feb 5 17:01:11 2026 -0800
+
+    Added a div tag to index-fix's index.html file
+
+commit 71f7d5ebc14232686f46f2fe0ee7b9bbf09f1e88
+Author: Mariobros <tapiamariomx@gmail.com>
+Date:   Thu Feb 5 16:59:12 2026 -0800
+
+    added div to main's index.html file
+
+commit da1a100c2e270de6f7089af9afcbdf2092dbf3c3
+Author: avatarmario <77302205+avatarmario@users.noreply.github.com>
+Date:   Thu Feb 5 16:52:02 2026 -0800
+
+    Added a README file
+
+commit 70a30074c4ebb0ecc7b168cdf033c9665c8e45f7
+Merge: 1d2bfc0 7da726f
+Author: avatarmario <77302205+avatarmario@users.noreply.github.com>
+Date:   Thu Feb 5 16:50:01 2026 -0800
+
+    Merge pull request #1 from avatarmario/info-fill
+    
+    filled in index.html file
+
+commit 7da726f88219baa2ba7d0ce7c3313f017e45ca85
+Author: Mariobros <tapiamariomx@gmail.com>
+Date:   Thu Feb 5 16:41:06 2026 -0800
+
+    filled in index.html file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
